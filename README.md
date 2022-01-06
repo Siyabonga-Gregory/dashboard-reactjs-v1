@@ -1,2 +1,2 @@
-# dashboard-reactjs-v1
- 
+# dashboard-reactjs
+ Simple dashboard in reactjs

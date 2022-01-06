@@ -1,0 +1,18 @@
+.body {
+    color: black !important;
+    background-color: white !important;
+}
+.MuiAppBar-colorPrimary {
+    color: white !important;
+    background-color: #2a2b36 !important;
+  }
+  .sidebar-item-text{
+    color: white !important;
+  }
+
+.MuiSvgIcon-root {
+    fill: #424669 !important;
+  }
+
+
+  

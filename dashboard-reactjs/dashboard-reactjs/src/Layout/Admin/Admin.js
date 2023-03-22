@@ -69,6 +69,11 @@ const useStyles = makeStyles((theme) => ({
     justifyContent: 'flex-end',
   },
   content: {
+<<<<<<< Updated upstream
+=======
+    //backgroundColor: "#2a2b36 !important",
+    //color: "#ffffff !important",
+>>>>>>> Stashed changes
     flexGrow: 1,
     padding: theme.spacing(3),
     transition: theme.transitions.create('margin', {
@@ -78,7 +83,13 @@ const useStyles = makeStyles((theme) => ({
     marginLeft: -drawerWidth,
   },
   contentShift: {
+<<<<<<< Updated upstream
     transition: theme.transitions.create('margin', {
+=======
+    //backgroundColor: "#2a2b36 !important",
+    //color: "#ffffff !important",
+    transition: theme.transitions.create("margin", {
+>>>>>>> Stashed changes
       easing: theme.transitions.easing.easeOut,
       duration: theme.transitions.duration.enteringScreen,
     }),
